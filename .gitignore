@@ -1,0 +1,84 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.apk
+*.apks
+*.aab
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.pfx
+*.keystore
+packages/
+*.log
+*.seed
+*.seed.gi
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+
+# iOS
+ios/Flutter/
+ios/.symlinks/
+ios/Pods/
+ios/*.xcodeproj/*
+ios/*.xcodeproj/xcshareddata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcworkspace/*
+ios/*.xcworkspace/xcshareddata/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcuserdata/
+ios/*.mode1v3
+ios/*.mode2v3
+ios/*.pbxuser
+ios/*.perspectivev3
+ios/*.xcworkspace/contents.xcworkspacedata
+ios/*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcuserdata/
+
+# macOS
+macos/Flutter/
+macos/Pods/
+macos/*.xcodeproj/*
+macos/*.xcodeproj/xcshareddata/
+macos/*.xcodeproj/xcuserdata/
+macos/*.xcworkspace/*
+macos/*.xcworkspace/xcshareddata/
+macos/*.xcworkspace/xcuserdata/
+
+# Web
+web/lib/
+web/*.cache
+web/*.pid
+
+# Hive
+*.hive
+*.g.dart
+
+# Platform specific
+*.iml
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Documentation
+*.md
+README.md
+CHANGELOG.md
+
+# Assets (keep only necessary ones)
+assets/*.png
+assets/*.jpg
+assets/*.jpeg
+assets/*.gif
+assets/*.svg
+assets/*.mp3
+assets/*.wav
+assets/*.ogg
